@@ -1,0 +1,13 @@
+{
+  "name": "columbus",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "check": "wrangler deploy --dry-run",
+    "deploy:secure": "bash scripts/deploy.sh",
+    "deploy": "wrangler deploy --strict"
+  },
+  "devDependencies": {
+    "wrangler": "^4.155.0"
+  }
+}

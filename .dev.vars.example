@@ -1,0 +1,3 @@
+# Copy to .dev.vars for local testing with `npx wrangler dev`. Never commit .dev.vars.
+PROTOTYPE_PASSWORD=choose-a-local-test-password
+SESSION_SECRET=paste-a-long-random-string-here
