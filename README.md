@@ -56,12 +56,14 @@ review call, without resizing anything or being handed a second link.
 
 ### Design process
 
-The prototype is the last step of this project, not the first. The research and structural
-work that led to it is in the same [Figma file](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website),
-one page per artefact:
+The prototype is the last step of this project, not the first. The screens live in
+**[the Figma designs](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2285-5613)**,
+and the research and structural work that led to them sits in the same file, one page per
+artefact:
 
 | Page | What is on it |
 | --- | --- |
+| [Designs](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2285-5613) | the screens — desktop and mobile 390, every wizard step and result state |
 | [Project passport](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=1-980) | the brief the work started from |
 | [Competitor UX analysis](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=1-1047) | how other housing authorities solve the same problem |
 | [Persona mapping](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2016-2) | who arrives at this site, and in what state |
