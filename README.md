@@ -54,12 +54,25 @@ prototype contains a single `@media` rule and five `@container` rules.
 A built-in Desktop / Phone toggle lets a stakeholder compare both on one screen during a
 review call, without resizing anything or being handed a second link.
 
-### Design file
+### Design process
 
-The full design — flows, states, components and the screens that never made it into the
-prototype — lives in Figma:
+The prototype is the last step of this project, not the first. The research and structural
+work that led to it is in the same [Figma file](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website),
+one page per artefact:
 
-**[Columbus Website — Figma file](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=1-943)**
+| Page | What is on it |
+| --- | --- |
+| [Project passport](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=1-980) | the brief the work started from |
+| [Competitor UX analysis](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=1-1047) | how other housing authorities solve the same problem |
+| [Persona mapping](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2016-2) | who arrives at this site, and in what state |
+| [User journeys](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2024-2) | end-to-end flows, one swimlane per audience |
+| [Information architecture — user](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2038-2) | the public site map, as a tree |
+| [Information architecture — admin](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2034-2) | the CMS structure behind it |
+| [Design system](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=2048-2) | components, states and the icon set |
+
+Two separate information architectures — one for the resident, one for the staff who keep
+the content current — because a public site that nobody can maintain goes stale within a
+year, and the admin structure has to be designed, not inherited from the CMS defaults.
 
 ## Accessibility
 

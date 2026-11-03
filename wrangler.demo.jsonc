@@ -10,6 +10,11 @@
   "name": "columbus-demo",
   "compatibility_date": "2025-09-01",
 
+  // Pinned to the personal Cloudflare account, so this demo can never be
+  // deployed to the client's account by accident. An account id is not a
+  // secret — it identifies an account, it does not grant access to one.
+  "account_id": "a345b00b30f22dbc069ecfba3076b1ea",
+
   // No "main": there is no Worker script here. The prototype is served as plain
   // static assets, so no password screen, no session cookie, no rate limiter —
   // anyone with the link sees it immediately.
