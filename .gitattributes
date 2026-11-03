@@ -1,0 +1,8 @@
+# The prototype is a single 2.9 MB file, and nearly all of that weight is 27
+# images inlined as base64. Counted normally it makes the repository look like
+# 99.5% HTML and hides the Worker entirely.
+#
+# linguist-detectable=false removes it from GitHub's language statistics only.
+# The file is not hidden, not marked as generated, and not changed in any way —
+# it is still the prototype, still reviewed in diffs, still served as the demo.
+public/index.html linguist-detectable=false
