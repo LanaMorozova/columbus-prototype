@@ -8,7 +8,7 @@ react to, instead of a deck of static screens.
 
 ![Home page of the prototype](docs/home-desktop.jpg)
 
-🔗 **[Live prototype](https://columbus.trinetix.workers.dev/)** — password protected, access on request
+🔗 **[Open the live prototype](https://columbus-demo.morozova.workers.dev)** — no login, no password, click straight in
 
 ---
 
