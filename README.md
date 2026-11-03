@@ -143,3 +143,9 @@ npx wrangler rollback   # back to the previous version
 
 **Role:** design and build — UX, UI, front-end implementation, deployment.
 **Stack:** HTML, CSS (container queries), vanilla JavaScript, Cloudflare Workers.
+
+## Licence
+
+Published to be read and reviewed, not to be reused — see [LICENSE](LICENSE).
+The client's branding, imagery and copy appear here with permission for
+portfolio purposes only and are not mine to license.
