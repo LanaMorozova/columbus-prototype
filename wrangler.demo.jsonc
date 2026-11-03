@@ -1,0 +1,22 @@
+{
+  // Public portfolio demo — a SEPARATE Worker from the client deployment.
+  //
+  // wrangler.jsonc stays untouched: it still deploys the password-protected
+  // "columbus" Worker that the client uses for presales. This config only adds
+  // an open copy of the same prototype, under a different name, so the two
+  // never interfere with each other.
+  //
+  // Deploy with: npm run deploy:demo
+  "name": "columbus-demo",
+  "compatibility_date": "2025-09-01",
+
+  // No "main": there is no Worker script here. The prototype is served as plain
+  // static assets, so no password screen, no session cookie, no rate limiter —
+  // anyone with the link sees it immediately.
+  "assets": {
+    "directory": "./public"
+  },
+
+  "workers_dev": true,
+  "preview_urls": false
+}

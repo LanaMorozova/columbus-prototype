@@ -54,6 +54,13 @@ prototype contains a single `@media` rule and five `@container` rules.
 A built-in Desktop / Phone toggle lets a stakeholder compare both on one screen during a
 review call, without resizing anything or being handed a second link.
 
+### Design file
+
+The full design — flows, states, components and the screens that never made it into the
+prototype — lives in Figma:
+
+**[Columbus Website — Figma file](https://www.figma.com/design/goTQdcG9hRd9gyFTAHmWEM/Columbus-Website?node-id=1-943)**
+
 ## Accessibility
 
 Treated as part of the design rather than an audit afterwards — which matters more than usual

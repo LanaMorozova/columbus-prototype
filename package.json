@@ -5,7 +5,9 @@
     "dev": "wrangler dev",
     "check": "wrangler deploy --dry-run",
     "deploy:secure": "bash scripts/deploy.sh",
-    "deploy": "wrangler deploy --strict"
+    "deploy": "wrangler deploy --strict",
+    "check:demo": "wrangler deploy --config wrangler.demo.jsonc --dry-run",
+    "deploy:demo": "wrangler deploy --config wrangler.demo.jsonc"
   },
   "devDependencies": {
     "wrangler": "^4.155.0"
